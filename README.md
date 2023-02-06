@@ -1,8 +1,8 @@
 # Sumário
 
-* [Front-end](https://github.com/RonielNunes/ListaDeAfazeres/blob/main/README.md#Front-end)
-* [Back-end](https://github.com/RonielNunes/ListaDeAfazeres/blob/main/README.md#Back-end)
-* [Como rodar a aplicação](https://github.com/RonielNunes/ListaDeAfazeres/blob/main/README.md#Back-end)
+* [Front-end](https://github.com/RonielNunes/ListaDeAfazeres#front-end)
+* [Back-end](https://github.com/RonielNunes/ListaDeAfazeres#back-end)
+* [Como rodar a aplicação](https://github.com/RonielNunes/ListaDeAfazeres#como-rodar-a-aplica%C3%A7%C3%A3o)
 
 
 
