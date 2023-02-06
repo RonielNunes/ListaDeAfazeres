@@ -19,7 +19,10 @@ O front-end dessa aplicação é uma lista de afazeres interativa, responsável 
 ![img](readme/pagina1.png)
 > Imagem ilustrativa 1.
 
-[![Watch the video](readme/pagina1.png)](https://youtu.be/OmBQNR_fg2w)
+
+https://user-images.githubusercontent.com/46944438/217065196-04e4c4db-379e-4a98-863d-0eb5a514c87c.mp4
+
+
 > Video.
 
 # **Back-end**
