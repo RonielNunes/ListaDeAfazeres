@@ -21,7 +21,7 @@ O front-end dessa aplicação é uma lista de afazeres interativa, responsável 
 
 
 <video width="861" height="511" controls>
-  <source src="readme\using.mkv" type="video/ogg">
+  <source src="https://youtu.be/OmBQNR_fg2w" >
 </video>
 
 # **Back-end**
