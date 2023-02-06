@@ -19,10 +19,8 @@ O front-end dessa aplicação é uma lista de afazeres interativa, responsável 
 ![img](readme/pagina1.png)
 > Imagem ilustrativa 1.
 
-
-<video width="861" height="511" controls>
-  <source src="https://youtu.be/OmBQNR_fg2w" >
-</video>
+[![Watch the video](readme/pagina1.png)](https://youtu.be/OmBQNR_fg2w)
+> Video.
 
 # **Back-end**
 
